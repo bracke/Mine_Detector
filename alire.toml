@@ -11,8 +11,8 @@ tags = ["minedetector", "game"]
 long-description = """
 # Mine_Detector
 The Ada-GUI (https://github.com/jrcarter/Ada_GUI) version of Mine Detector, an intellectually-challenging game
-executables = ["mine_detector"]
 """
+executables = ["mine_detector"]
 
 [build-switches]
 "*".style_checks = "No"
