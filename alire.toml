@@ -23,3 +23,6 @@ gnat = "<13.0 | >=13.3"
 
 [[depends-on]]
 ada_gui = "^20240224.0.0"
+
+[[depends-on]]
+ssl = "^3.0.2"
